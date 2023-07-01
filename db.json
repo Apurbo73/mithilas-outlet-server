@@ -1,16 +1,93 @@
 {
-  "grocery": [
+  "products": [
     {
       "id": 1,
       "name": "Soap",
-      "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg"
+      "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg",
+      "price": "25",
+      "seller": "Mithila"
+    },
+    {
+      "id": 2,
+      "name": "Savlon",
+      "image": "https://www.savlon.co.za/sites/savlon_za/files/product-images/anticeptic-500ml.jpg",
+      "price": "55",
+      "seller": "Savlon"
     }
-  ],
-  "fashion": [
+    ,
     {
-      "id": 1,
-      "name": "Soap",
-      "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg"
+      "id": 3,
+      "name": "Sepnil Hand Sanitizer",
+      "image": "https://squaretoiletries.com/wp-content/uploads/2020/02/Sepnil-insent-hand-senitizer-product-info.png",
+      "price": "65",
+      "seller": "Sepnil"
+    },
+    {
+      "id": 4,
+      "name": "Cotton T-shirt",
+      "image": "https://cdn.dribbble.com/users/61921/screenshots/9634673/media/985b2add2b952f24634b717c4d846bf2.png?resize=400x0",
+      "price": "550",
+      "seller": "Amics Fashion"
+    },
+    {
+      "id": 5,
+      "name": "Simple Half Sleev",
+      "image": "https://i.etsystatic.com/9097105/r/il/6cca6a/838413092/il_fullxfull.838413092_fv2r.jpg",
+      "price": "450",
+      "seller": "Bangla & Co.."
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Simple Half Sleev",
+      "image": "https://i.etsystatic.com/9097105/r/il/6cca6a/838413092/il_fullxfull.838413092_fv2r.jpg",
+      "price": "450",
+      "seller": "Bangla & Co.."
+    },
+    {
+      "id": 7,
+      "name": "Bangladesh Cricket Jersey",
+      "image": "https://static-01.daraz.com.bd/p/6590265ab632cc073fb51e52c29a89e0.jpg",
+      "price": "850",
+      "seller": "Amics Fashion"
+    },
+    {
+      "id": 8,
+      "name": "Cotton Panjabi",
+      "image": "https://media.e-valy.com/cms/products/images/bca5e378-9bc6-4366-855d-3bfb2dd364c5",
+      "price": "1450",
+      "seller": "Bangla & Co.."
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kapoo7k0/electric-kettle/p/6/s/pigeon-favourite-original-imafs7xhj5uwgrh4.jpeg?q=70",
+      "price": "1450",
+      "seller": "Walton"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Sandwich Makers",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70",
+      "price": "3450",
+      "seller": "RFL & Co.."
+    },
+    {
+      "id": 11,
+      "name": "Smart Watches",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70",
+      "price": "2450",
+      "seller": "Youth Shop"
+    },
+    {
+      "id": 12,
+      "name": "Table Fans",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70",
+      "price": "4250",
+      "seller": "Vission"
     }
   ]
+ 
 }
