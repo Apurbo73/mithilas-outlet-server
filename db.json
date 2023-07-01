@@ -1,0 +1,16 @@
+{
+  "grocery": [
+    {
+      "id": 1,
+      "name": "Soap",
+      "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg"
+    }
+  ],
+  "fashion": [
+    {
+      "id": 1,
+      "name": "Soap",
+      "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg"
+    }
+  ]
+}
