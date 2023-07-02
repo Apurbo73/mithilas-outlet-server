@@ -6,7 +6,8 @@
       "image": "https://images.mamaearth.in/catalog/product/t/e/tea-tree-bathing-soap.jpg",
       "price": "25",
       "seller": "Mithila",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "grocery"
     },
     {
       "id": 2,
@@ -14,17 +15,17 @@
       "image": "https://www.savlon.co.za/sites/savlon_za/files/product-images/anticeptic-500ml.jpg",
       "price": "55",
       "seller": "Savlon",
-      "descsription": "The best product available in stock"
-
-    }
-    ,
+      "descsription": "The best product available in stock",
+      "category": "grocery"
+    },
     {
       "id": 3,
       "name": "Sepnil Hand Sanitizer",
       "image": "https://squaretoiletries.com/wp-content/uploads/2020/02/Sepnil-insent-hand-senitizer-product-info.png",
       "price": "65",
       "seller": "Sepnil",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "grocery"
     },
     {
       "id": 4,
@@ -32,7 +33,8 @@
       "image": "https://cdn.dribbble.com/users/61921/screenshots/9634673/media/985b2add2b952f24634b717c4d846bf2.png?resize=400x0",
       "price": "550",
       "seller": "Amics Fashion",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "fashion"
     },
     {
       "id": 5,
@@ -40,16 +42,17 @@
       "image": "https://prod.saralifestyle.com/Images/Products/VariationWisetImage/e0b1c63735574ea8829cda2042a43b85.jpeg",
       "price": "450",
       "seller": "Bangla & Co..",
-      "descsription": "The best product available in stock"
-    }
-    ,
+      "descsription": "The best product available in stock",
+      "category": "fashion"
+    },
     {
       "id": 6,
       "name": "Simple T- Shirt",
       "image": "https://i.etsystatic.com/9097105/r/il/6cca6a/838413092/il_fullxfull.838413092_fv2r.jpg",
       "price": "450",
       "seller": "Bangla & Co..",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "fashion"
     },
     {
       "id": 7,
@@ -57,7 +60,8 @@
       "image": "https://static-01.daraz.com.bd/p/6590265ab632cc073fb51e52c29a89e0.jpg",
       "price": "850",
       "seller": "Amics Fashion",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "top deal"
     },
     {
       "id": 8,
@@ -65,25 +69,26 @@
       "image": "https://media.e-valy.com/cms/products/images/bca5e378-9bc6-4366-855d-3bfb2dd364c5",
       "price": "1450",
       "seller": "Bangla & Co..",
-      "descsription": "The best product available in stock"
-    }
-    ,
+      "descsription": "The best product available in stock",
+      "category": "fashion"
+    },
     {
       "id": 9,
       "name": "Electric Kettle",
       "image": "https://rukminim1.flixcart.com/image/416/416/kapoo7k0/electric-kettle/p/6/s/pigeon-favourite-original-imafs7xhj5uwgrh4.jpeg?q=70",
       "price": "1450",
       "seller": "Walton",
-      "descsription": "The best product available in stock"
-    }
-    ,
+      "descsription": "The best product available in stock",
+      "category": "electronics"
+    },
     {
       "id": 10,
       "name": "Sandwich Makers",
       "image": "https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70",
       "price": "3450",
       "seller": "RFL & Co..",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock",
+      "category": "electronics"
     },
     {
       "id": 11,
@@ -91,7 +96,7 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70",
       "price": "2450",
       "seller": "Youth Shop",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock","category":"electronics"
     },
     {
       "id": 12,
@@ -99,33 +104,56 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70",
       "price": "4250",
       "seller": "Vission",
-      "descsription": "The best product available in stock"
-    }
-    ,
+      "descsription": "The best product available in stock","category":"electronics"
+    },
     {
       "id": 13,
       "name": "Headphones",
       "image": "https://rukminim1.flixcart.com/image/150/150/kcgk1ow0/headphone/n/u/a/235v2-fast-charging-boat-original-imaftk6us4af7bca.jpeg?q=70",
       "price": "3850",
       "seller": "The Boat",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock","category":"electronics"
     },
     {
-      "id": 12,
-      "name": "Table Fans",
-      "image": "https://rukminim1.flixcart.com/image/416/416/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70",
-      "price": "4250",
+      "id": 14,
+      "name": "Iphone 12 Pro",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/1532-85514.jpg",
+      "price": "120000",
       "seller": "Vission",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock","category":"mobile"
     },
     {
-      "id": 12,
-      "name": "Table Fans",
-      "image": "https://rukminim1.flixcart.com/image/416/416/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70",
-      "price": "4250",
+      "id": 15,
+      "name": "Samsung 14 Ultra",
+      "image": "https://static.gadgetandgear.com/image/250x250/fit/tmp/product/20220423_1650687083_966562.png",
+      "price": "156000",
       "seller": "Vission",
-      "descsription": "The best product available in stock"
+      "descsription": "The best product available in stock","category":"mobile"
+    }
+    ,
+    {
+      "id": 16,
+      "name": "Simple Sofa",
+      "image": "https://www.love-your-home.co.uk/media/catalog/product/cache/becc11b8c68583c761d59f399a3e3771/a/n/angelina_image_1.jpg",
+      "price": "156000",
+      "seller": "Vission",
+      "descsription": "The best product available in stock","category":"home"
+    },
+    {
+      "id": 17,
+      "name": "Walton Smart Fridge",
+      "image": "https://www.lg.com/nz/images/fridges/md07558623/gallery/d-001.jpg",
+      "price": "156000",
+      "seller": "Vission",
+      "descsription": "The best product available in stock","category":"Appliences"
+    },
+    {
+      "id": 18,
+      "name": "Cartoon",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Mickey_Mouse_Disney_1.webp",
+      "price": "156000",
+      "seller": "Vission",
+      "descsription": "The best product available in stock","category":"baby's"
     }
   ]
- 
 }
